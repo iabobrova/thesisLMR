@@ -1,2 +1,2 @@
 # thesisLMR
-Mathematica-files related to my thesis.
+Mathematica-files related to the thesis.
